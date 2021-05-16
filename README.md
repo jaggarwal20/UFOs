@@ -1,4 +1,5 @@
 # UFOs
+<img src = "static/images/nasa.jpg" width = "1500" height = "200" />
 
 ## Table of Contents
 - [1.0 Project Overview](#Project-Overview)
@@ -25,6 +26,18 @@ Users can search the html site by entering values into one or more of the follow
   3. State
   4. Country
   5. Shape
+
+![alt text](static/images/filters_html.png)  
+
+These filters were added by adding the following code:
+
+`<li class = "list-group-item">`
+
+  `<label for = "date"> enter date </label>`
+  
+  `<input type = "text" placeholder "1/1/2010" id = "datetime" onchange = "UpdateFilters('#datetime')"/>`
+  
+`</li>`
 
 <a name="Summary"></a>
 ## Summary

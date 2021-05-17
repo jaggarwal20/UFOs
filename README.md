@@ -42,5 +42,6 @@ These filters were added by adding the following code:
 <a name="Summary"></a>
 ## Summary
 
+A drawback of the webpage is that there are no date ranges or choices for entries for the filters. This prevents the users from being able to easily query the page. It would also be helpful to be able to sort the columns by longest to shortest duration. 
 
 
